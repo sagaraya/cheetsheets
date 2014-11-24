@@ -1,5 +1,8 @@
 # cheetsheets package
 
-A short description of your package.
+cheetsheets is atom package.
+it makes opening cheetsheets easy.
 
-![A screenshot of your spankin' package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## Usage
+- Cheetsheets(on menu bar) -> emoji
+- Cheetsheets(on menu bar) -> github flavored markdown
