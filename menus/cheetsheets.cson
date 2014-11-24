@@ -1,0 +1,23 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle cheetsheets hoge'
+      'command': 'cheetsheets:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Cheetshees'
+    'submenu': [
+      {
+        'label': 'emoji'
+        'command': 'cheetsheets:emoji'
+      }
+      {
+        'label': 'github flavored markdown'
+        'command': 'cheetsheets:markdown'
+      }
+    ]
+  }
+]
